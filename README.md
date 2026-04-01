@@ -67,20 +67,21 @@ The interactive Power BI dashboard provides a comprehensive view of:
 
 ## 📁 Project Structure
 
-swiggy-powerbi-dashboard/
+Swiggy-Powerbi-Dashboard
 │
-├── README.md
-├── swiggy_dashboard.pbix
-├── dataset/
-│ └── swiggy_data.csv
-└── screenshots/
-└── dashboard_overview.png
+├── dataset
+│   └──Swiggy_data.csv
+│
+├── screenshots
+│   └── dashboard_overview.png
+│
+└── README.md
 
 ---
 
 ## 📸 Dashboard Preview
 
-dashboard_overview.png
+![Dashboard Preview](screenshots/dashboard_overview.png)
 
 ---
 
