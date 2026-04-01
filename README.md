@@ -66,3 +66,30 @@ The interactive Power BI dashboard provides a comprehensive view of:
 ---
 
 ## 📁 Project Structure
+
+swiggy-powerbi-dashboard/
+│
+├── README.md
+├── swiggy_dashboard.pbix
+├── dataset/
+│ └── swiggy_data.csv
+└── screenshots/
+└── dashboard_overview.png
+
+---
+
+## 📸 Dashboard Preview
+
+dashboard_overview.png
+
+---
+
+## 📌 Conclusion
+
+This dashboard helps stakeholders:
+- Optimize delivery operations
+- Understand customer preferences
+- Identify high-revenue areas
+- Improve service quality
+
+---
